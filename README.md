@@ -4,4 +4,4 @@ This is a command line interface application which creates a README file for you
 
 
 Link to a video showing how to run this application 
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/42622b0e-c147-4df6-y20c-ed39c3301ce3
+https://drive.google.com/file/d/1koXW_4sAQ_-2aptsdbxa25erAxdI6Y4C/view
